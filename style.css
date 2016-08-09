@@ -1,5 +1,9 @@
 body {
 	background-image: url("los_angeles.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
 }
 
 h1.home {
