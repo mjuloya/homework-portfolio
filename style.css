@@ -1,0 +1,42 @@
+body {
+	background-image: url("los_angeles.jpg");
+}
+
+h1.home {
+	text-align: center;
+	color: white;
+	font-family: bangla-mn;
+	margin-top: 400px;
+}
+
+h1 {
+	color:white;
+	text-align: center;
+}
+
+h1.about {
+	color:white;
+}
+
+img{
+	width: 100px;
+}
+
+p.story{
+	text-align: center;
+}
+
+p.home{
+	text-align: center;
+}
+
+p.about{
+	color: white;
+	text-align: left;
+}
+
+p.abouttitle{
+	color: black;
+	text-align: left;
+}
+
